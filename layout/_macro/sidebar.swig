@@ -14,8 +14,6 @@
         {%- set display_toc = toc.length > 1 and display_toc %}
       {%- endif %}
 
-      <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=30841589&auto=1&height=66"></iframe>
-
       <ul class="sidebar-nav motion-element">
         <li class="sidebar-nav-toc">
           {{ __('sidebar.toc') }}
